@@ -1,0 +1,23 @@
+# Local configuration and credentials
+host/config.json
+arduino/CodexDisplayTest/secrets.h
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Firmware build products
+.pio/
+.arduino-build/
+build/
+*.bin
+*.elf
+*.map
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
