@@ -1,0 +1,18 @@
+{
+    "transport":  "wifi",
+    "device_url":  "http://192.168.1.100/status",
+    "port":  "auto",
+    "baud":  115200,
+    "poll_seconds":  2,
+    "inactive_seconds":  15,
+    "hook_active_seconds":  60,
+    "offline_quota_fallback":  true,
+    "codex_home":  "",
+    "http_timeout_seconds":  10,
+    "db_active_seconds":  30,
+    "usage_cache_max_age_seconds":  900,
+    "claude_enabled":  true,
+    "claude_home":  "",
+    "claude_device_url":  "",
+    "claude_poll_seconds":  300
+}
